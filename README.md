@@ -9,7 +9,7 @@ A complete socket-based chat application using threading and natural language pr
 Located in: './DoctorChat'
 (See the DoctorChat README for details.)
 
-##Technologies Used
+## Technologies Used
 - Python 3.x
 - Sockets (TCP)
 - Threading
